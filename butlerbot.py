@@ -1,6 +1,5 @@
 import discord, threading, sys, asyncio
 from plugins import Plugin
-import random
 
 client = discord.Client()
 

@@ -11,3 +11,4 @@ from .static_commands import StaticCommands
 from .mod import Mod
 from .time import Time
 from .debug import Debug
+from .text_image import *
